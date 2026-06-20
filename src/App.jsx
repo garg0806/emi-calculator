@@ -87,7 +87,7 @@ export default function App() {
 
         <div className="mt-8 border-t pt-4 text-center">
           <p className="font-semibold">Shubham Garg</p>
-          <p>your-email@gmail.com</p>
+          <p>Shubhamgarg178011@gmail.com</p>
 
           <a
             href="https://digitalheroesco.com"
